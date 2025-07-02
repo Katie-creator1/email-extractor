@@ -1,0 +1,19 @@
+Hello team,
+
+Please reach out to the following contacts:
+- John Smith: john.smith@example.com
+- Jane Doe: jane.doe@workplace.org
+- Help Desk: support+help@service.co.uk
+
+Invalid attempts:
+- wrong.email@com
+- another@@domain.com
+- user@.bad.com
+
+Also cc the regional offices:
+- Europe: euro_contact@eu.company.net
+- USA: usa-office@us-domain.io
+- India: india_hr@company.in
+
+Thank you,
+Admin <admin@internal.system>
